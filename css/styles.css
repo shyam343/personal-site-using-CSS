@@ -1,0 +1,26 @@
+body {
+    background-color: #66BFBF;
+}
+
+h1{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+}
+.shy{
+     background-color: red;
+    }
+
+.circular{
+    border-radius: 50%;
+    color: brown;
+} 
